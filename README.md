@@ -99,7 +99,7 @@ O sistema gerencia as principais informações dos clientes:
 
 ---
 
-## O que você irá aprender
+## O que aprendi:
 
 - Configuração de um projeto Spring Boot
 - Configuração e conexão com banco de dados relacional
