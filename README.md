@@ -108,8 +108,4 @@ O sistema gerencia as principais informações dos clientes:
 - Implementação de camada de serviço
 - Exposição de APIs RESTful para operações CRUD
 
----
 
-Este projeto irá te capacitar com o conhecimento e as habilidades necessárias para construir e gerenciar sistemas backend robustos usando Spring Boot e Spring Data JPA.
-
----
